@@ -1,10 +1,10 @@
 @charset "utf-8";
 * {
- background-color: #06da29;
- color: #f3f3ef; 
- line-height: 70%;
+ background-color: #272633;
+ color: #e2e1e0; 
+ line-height: 10%;
  font-family: Georgia, 'Times New Roman', Times, serif;
- text-shadow: 3px 3px 5px #cccccc;  
+ text-shadow: 5px 2px 5px #cccccc;  
  padding: 1em;
 }
 body {
@@ -20,16 +20,25 @@ table * {
     text-align: center;
     width: 400px;
 }
+#primeiro_nome {
+    background-color: rgb(236, 27, 20);
+    color: #f4f808;
+}
 
+p#sobrenome {
+    background-color: rgb(76, 77, 69);
+    color: #fd0303;
+}
 
 .feature {
-    color: #c70000;
-    background-color: brown;
-    border: 3px solid black;
+    color: #fd0303;
+    background-color: rgb(248, 252, 5);
+    border: 3px solid rgb(243, 10, 10);
    }
    .company {
+      
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.25em;
-    color: rgb(250, 9, 9);
+    color: rgb(243, 10, 10);
    }
