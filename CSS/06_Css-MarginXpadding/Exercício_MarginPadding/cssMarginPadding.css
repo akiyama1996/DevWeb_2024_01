@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    top: 0;
+}
+
+body {
+    background-color: #635858;
+    color: rgb(243, 241, 241);
+    font: normal 16px Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(247, 247, 247);
+}
+
+.btn {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+}
+
+.container {
+    width: 80%;
+    margin: 20px 30px;
+}
+
+.box-1 {
+    background-color: black;
+    color: #fff;
+    border-right: 5px red solid;
+    border-left: 5px red solid;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-style: dotted;
+    padding: 15px;
+
+}
+
+.box-2 {
+    background-color: #ce3131;
+    color: #fff;
+    border-right: 10px rgb(243, 245, 243);
+    border-left: 10px rgb(243, 245, 243);
+    border-top: 10px rgb(243, 245, 243);
+    border-bottom: 5px black;
+    border-width: 10px;
+    border-bottom-width: 15px;
+    padding: 25px;
+    border-bottom-style: ridge;
+}
+.box-3 {
+    background-color: #dadd16;
+    color: #0a0101;
+    border-right: 5px rgb(235, 233, 233);
+    border-left: 5px rgb(236, 233, 233);
+    border-top: 5px rgb(231, 230, 230);
+    border-bottom: 5px rgb(3, 3, 3) solid;
+    border-width: 10px;
+    border-bottom-width: 15px;
+    padding: 25px;
+    border-bottom-style: ridge;
+}
+
+
