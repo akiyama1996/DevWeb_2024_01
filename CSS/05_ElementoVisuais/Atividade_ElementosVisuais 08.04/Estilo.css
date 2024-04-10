@@ -1,5 +1,8 @@
 @charset "utf-8";
 
+*{text-shadow: 5px 2px 5px #cccccc; 
+
+}
 body {
     background-color: #525e94;
     color: black;
@@ -13,4 +16,38 @@ body {
 p#sobrenome {
     background-color: grey;
 }
+
+section {
+    border: 5px solid rgb(3, 3, 3); 
+    width: 30%;
+    float: center;
+    }
+
+    
+    .feature {
+        
+        font-weight: bold;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 2.0em;
+        color: rgb(246, 250, 21);
+        text-align: center;
+       }
+
+       .edit {
+        
+        font-weight: bold;
+        font-family: Georgia, 'Times Square', Times, serif;
+        font-size: 1.50em;
+        color: red;
+        text-align: center;
+       }
+       .coment {
+        
+        font-weight: bold;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 1.10em;
+        color: red;
+        text-align: center;
+       }
+       
 
