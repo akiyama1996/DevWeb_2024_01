@@ -1,0 +1,61 @@
+section {
+    border: 2px solid blue;
+    width: 100%;
+    float: left;
+    }
+    div {
+        margin: 10px;
+        width: 50px;
+        height: 50px;
+       }
+       .esquerda {
+        color:pink;
+        float: left;
+        background: rgb(0, 0, 0);
+       }
+       .direita {
+        color:pink;
+        float: right;
+        background: rgb(5, 5, 5);
+
+
+       }
+       .div3 {
+        float: right;
+        width: 200px;
+        height: 80px;
+        margin: 100px;
+        border: 3px solid #73AD21;
+    }
+
+    .edit {
+        border: 2px solid blue;
+        font-weight: bold;
+        font-family: Georgia, 'Times Square', Times, serif;
+        font-size: 1.00em;
+        color: red;
+         }
+
+         .edit1 {
+            float: center;
+            font-weight: bold;
+            font-family: Georgia, 'Times Square', Times, serif;
+            font-size: 1.00em;
+            color: red;
+             }
+    
+    .section2 {
+        width: 500px;
+        height: 350px;  
+        padding: 50px;
+        border: 1px solid red;
+    box-sizing: border-box;
+    }
+
+    p.ex-2 {
+        color: black;
+        font-weight: bold;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        float: center;
+        display: block;
+    }
