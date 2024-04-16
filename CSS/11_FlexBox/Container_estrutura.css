@@ -1,0 +1,33 @@
+@charset "utf-8";
+body{
+    background-color: orange;
+    border: 1px saddlebrown solid
+}
+.container > * {
+    border-radius: 1px;
+    border: 1px solid white;
+    margin:5px;
+    padding: 10px;
+    text-align:center;
+}
+
+
+.container {
+    display: flex;
+    align-items: baseline;
+}
+
+.container div:nth-child(2){
+
+    font-size: 3rem;
+}
+.container div:nth-child(4){
+
+    font-size:6rem;
+    order: 1
+}
+.container  div:nth-child(2){
+    flex-shrink:3;
+
+}
+
