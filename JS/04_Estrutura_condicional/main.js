@@ -28,17 +28,40 @@ else{
 }
 console.clear();
 const f = 4;
-const g = 11;
-if (f>5 ||g>10){
-    console.log ('Condição é $ {f>5 || g>10}');
-    console.log ('f é maior que 5 ou g é maior que 10');}
+const g1 = 11;
 
-    else
-
-    console.log ('f não é maior que 5 ou g é maior que 10');
-
-    if (f >5 && g > 10) console.log ('f é maior que 5 e g é maior que 10');
+if (f>5 ||g1>10){
+    console.log ('Condição é $ {f>5 || g1>10}');
+    console.log ('f é maior que 5 ou g1 é maior que 10');}
 
     else {
-        console.log ('Condição é $ {f> 5 && g> 10}');
-        console.log ('f não é maior que 5 ou g é não maior que 10');}
+
+    console.log ('f não é maior que 5 ou g1 é maior que 10');}
+
+
+
+    if (f >5 && g1 > 10) console.log ('f é maior que 5 e g1 é maior que 10');
+
+    else {
+        console.log ('Condição é $ {f> 5 && g1> 10}');
+        console.log ('f não é maior que 5 ou g1 é não maior que 10');}
+
+        console.clear();
+        const num = 'Ola';
+
+        const g =11;
+
+        if (num % 2 == 0 && !isNam(num))
+        console.log ('Número par');
+
+        else 
+         if (num % 2 !=0 && !isNam(num))
+        console.log ('Número ímpar');
+        
+        else 
+        console.log ('Não é um número');
+
+        console.clear();
+        let resultado =3>4 
+        console.log('resultado')
+        
