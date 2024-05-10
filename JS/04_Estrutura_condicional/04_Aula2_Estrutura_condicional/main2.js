@@ -1,3 +1,5 @@
+// Array é caracterizado pelo Colchete []
+
 console.clear();
         const num = 'Ola';
 
