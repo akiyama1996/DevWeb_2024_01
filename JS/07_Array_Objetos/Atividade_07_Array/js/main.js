@@ -43,7 +43,9 @@ let alunos = [
     numero: ['9','25','44'],
         }
     }, 
-    {},
+    
+    console.log(media.id[1].notas[0,1,2])
+    
 ]
 
 
