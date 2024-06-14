@@ -1,0 +1,20 @@
+{
+    "Cars": [
+    {
+    
+    "Modelo": "VW Gol",
+    "Cor": "Prata",
+    "Placa": "ABC-1234"
+    },
+    {
+        "Modelo": "Ford Focus",
+        "Cor": "Azul",
+        "Placa": "DEF-5678"
+    },
+    {
+        "Modelo": "Fiat Ideia",
+        "Cor": "Preto",
+        "Placa": "EFC-8208"
+    }
+    ]
+    }
