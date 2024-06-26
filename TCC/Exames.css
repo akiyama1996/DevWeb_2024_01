@@ -10,7 +10,7 @@
      
    }
    .exame {
-    background-color: #fab246;
+    background-color: #f9ab01;
     border-style: solid;
     align-items: center;
     border: 3px rgb(0, 0, 0) solid;
@@ -19,7 +19,7 @@
         }
 
  .change{
-    background-color: #fab246;
+    background-color: #f9ab01;
     text-align: center;
     align-items: center;
     margin: 10px;
@@ -28,6 +28,7 @@
 
  }
     #response{
+        background-color: #f9ab01;
         border-style: solid;
         border: 5px solid #000000;
 
